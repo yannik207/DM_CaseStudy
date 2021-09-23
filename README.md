@@ -23,6 +23,7 @@ Gesamtertrag.
 6. Veranschaulichen Sie Ihre Ergebnisse durch Tabellen und Abbildungen und interpretieren Sie diese.
 
 
+Ergebnisse:
 Bei der Bewertung unseres Modells haben wir uns für den Gewinn, der sich aus der Kosten- und Confusion Matrix ergibt, als primären Zielparameter entschieden, da dieser die größte betriebswirtschaftliche Relevanz aufweist. Als sekundäre Zielparameter haben wir zusätzlich die ROC und die AUC betrachtet. (s. Abbildung 1)
 Folgende Ergebnisse sind vor bzw. nach Hyperparameter Tuning entstanden. Dabei wurden die optimalen Grenzwerte für die jeweils berechnete Kostenmatrix eingesetzt: (s. Tabelle 1)
 
